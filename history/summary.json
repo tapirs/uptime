@@ -14,5 +14,21 @@
     "timeWeek": 328,
     "timeMonth": 328,
     "timeYear": 328
+  },
+  {
+    "name": "Get-chips",
+    "url": "https://www.get-chips.co.uk",
+    "slug": "get-chips",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563
   }
 ]
