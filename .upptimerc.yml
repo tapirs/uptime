@@ -11,9 +11,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-#   cname: demo.uptime.js.org
+  cname: uptime.tapirs.co.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime
+#   baseUrl: /uptime
   logoUrl: https://www.tapirs.co.uk/images/favicon-196x196.png
   name: Uptime
   introTitle: "**uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
