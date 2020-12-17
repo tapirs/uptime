@@ -22,19 +22,19 @@
     "url": "https://www.get-chips.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.get-chips.co.uk",
     "slug": "get-chips",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 421,
-    "timeWeek": 493,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 508,
+    "timeDay": 515,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2020-12-17": 0
+      "2020-12-17": 26
     }
   }
 ]
