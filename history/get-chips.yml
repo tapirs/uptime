@@ -1,7 +1,7 @@
 url: https://www.get-chips.co.uk
-status: up
-code: 200
-responseTime: 341
-lastUpdated: 2021-11-08T23:12:11.724Z
+status: down
+code: 502
+responseTime: 410
+lastUpdated: 2021-11-09T21:33:19.168Z
 startTime: Fri Dec 04 2020 11:12:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
