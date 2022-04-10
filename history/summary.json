@@ -4,19 +4,19 @@
     "url": "https://www.tapirs.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.tapirs.co.uk",
     "slug": "tapirs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.98%",
     "time": 452,
-    "timeDay": 595,
-    "timeWeek": 484,
-    "timeMonth": 449,
+    "timeDay": 535,
+    "timeWeek": 476,
+    "timeMonth": 448,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-04-10": 67
+      "2022-04-10": 103
     }
   },
   {
@@ -25,7 +25,7 @@
     "icon": "https://favicons.githubusercontent.com/www.get-chips.co.uk",
     "slug": "get-chips",
     "status": "up",
-    "uptime": "61.52%",
+    "uptime": "61.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
