@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 450,
-    "timeDay": 606,
-    "timeWeek": 537,
-    "timeMonth": 470,
-    "timeYear": 444,
+    "timeDay": 656,
+    "timeWeek": 562,
+    "timeMonth": 479,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2022-04-10": 103
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/www.get-chips.co.uk",
     "slug": "get-chips",
     "status": "up",
-    "uptime": "64.22%",
+    "uptime": "64.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.20%",
+    "uptimeYear": "69.48%",
     "time": 456,
-    "timeDay": 624,
-    "timeWeek": 552,
-    "timeMonth": 490,
-    "timeYear": 447,
+    "timeDay": 654,
+    "timeWeek": 563,
+    "timeMonth": 498,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2021-10-27": 40,
       "2021-09-06": 650,
@@ -147,8 +147,7 @@
       "2021-05-22": 1440,
       "2021-05-21": 1440,
       "2021-05-20": 1440,
-      "2021-05-19": 1440,
-      "2021-05-18": 1440
+      "2021-05-19": 1440
     }
   }
 ]
