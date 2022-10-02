@@ -2,7 +2,7 @@
   {
     "name": "Tapirs",
     "url": "https://www.tapirs.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.tapirs.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.tapirs.co.uk.ico",
     "slug": "tapirs",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 463,
-    "timeDay": 654,
-    "timeWeek": 508,
-    "timeMonth": 528,
+    "timeDay": 582,
+    "timeWeek": 541,
+    "timeMonth": 526,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2022-04-10": 103
@@ -22,18 +22,18 @@
   {
     "name": "Get-chips",
     "url": "https://www.get-chips.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.get-chips.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.get-chips.co.uk.ico",
     "slug": "get-chips",
     "status": "up",
-    "uptime": "71.58%",
+    "uptime": "71.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 464,
-    "timeDay": 626,
-    "timeWeek": 499,
-    "timeMonth": 525,
+    "time": 463,
+    "timeDay": 480,
+    "timeWeek": 513,
+    "timeMonth": 519,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2021-10-27": 40
