@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 475,
-    "timeDay": 468,
-    "timeWeek": 493,
-    "timeMonth": 525,
+    "timeDay": 497,
+    "timeWeek": 508,
+    "timeMonth": 520,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2022-04-10": 103
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.get-chips.co.uk.ico",
     "slug": "get-chips",
     "status": "up",
-    "uptime": "74.77%",
+    "uptime": "74.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 579,
-    "timeWeek": 493,
-    "timeMonth": 527,
+    "timeDay": 485,
+    "timeWeek": 515,
+    "timeMonth": 521,
     "timeYear": 487,
     "dailyMinutesDown": {}
   }
