@@ -24,17 +24,19 @@
     "url": "https://www.get-chips.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.get-chips.co.uk.ico",
     "slug": "get-chips",
-    "status": "up",
+    "status": "down",
     "uptime": "75.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 477,
-    "timeDay": 478,
-    "timeWeek": 585,
-    "timeMonth": 501,
+    "timeDay": 502,
+    "timeWeek": 578,
+    "timeMonth": 502,
     "timeYear": 492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-28": 0
+    }
   }
 ]
