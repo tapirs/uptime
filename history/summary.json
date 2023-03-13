@@ -4,7 +4,7 @@
     "url": "https://www.tapirs.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.tapirs.co.uk.ico",
     "slug": "tapirs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 522,
     "timeYear": 500,
     "dailyMinutesDown": {
+      "2023-03-13": 0,
       "2023-02-20": 20,
       "2022-04-10": 103
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.get-chips.co.uk.ico",
     "slug": "get-chips",
     "status": "down",
-    "uptime": "71.87%",
+    "uptime": "71.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "87.95%",
+    "uptimeYear": "87.76%",
     "time": 484,
     "timeDay": 436,
     "timeWeek": 472,
     "timeMonth": 492,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-03-13": 94,
+      "2023-03-13": 1087,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
