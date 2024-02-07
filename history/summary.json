@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tapirs.co.uk.ico",
     "slug": "tapirs",
     "status": "down",
-    "uptime": "71.57%",
+    "uptime": "71.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.78%",
-    "time": 506,
+    "uptimeYear": "9.51%",
+    "time": 507,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 523,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-02-06": 69,
+      "2024-02-07": 67,
+      "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -356,7 +357,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.get-chips.co.uk.ico",
     "slug": "get-chips",
     "status": "down",
-    "uptime": "51.40%",
+    "uptime": "51.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -365,9 +366,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 505,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-02-06": 69,
+      "2024-02-07": 67,
+      "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -730,8 +732,7 @@
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
-      "2023-02-08": 1440,
-      "2023-02-07": 1440
+      "2023-02-08": 1440
     }
   }
 ]
